@@ -5,6 +5,7 @@ public class lecture10 {
 		// TODO Auto-generated method stub
 System.out.println("I'm so proud of you");
 	System.out.println("hii hongoroo bn")
+		System.out.println("Anar bn")
 	}
 
 }
